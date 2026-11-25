@@ -8,7 +8,6 @@ The project demonstrates a basic engineering book store interface using HTML, CS
 
 **[View Engineering Book Store](https://abhiramreddy2603.github.io/Web-Technology-Assignment/homepage.html)**
 
-> The live link will work after GitHub Pages is enabled for this repository. The site opens through `homepage.html`.
 
 ## Features
 
